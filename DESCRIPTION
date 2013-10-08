@@ -1,0 +1,9 @@
+Package: leap
+Type: Package
+Title: calculate leap year
+Version: 1.0
+Date: 2013-10-08
+Author: loic
+Maintainer: Who to complain to <loic.dutrieux@wur.nl>
+Description:Whatever
+License: wur
